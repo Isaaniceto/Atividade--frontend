@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: brown;
+}
+#Resultado{
+    font-size: 20px;
+    color:brown;
+}
+button{
+    background-color: brown;
+    color: white;;
+}
+button:hover{
+    background-color: rgb(253, 208, 163);
+    color: brown;
+}
+
